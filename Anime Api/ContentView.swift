@@ -1,3 +1,9 @@
+//
+//  ContentView.swift
+//  Anime Api
+//
+//  Created by joseph phillips on 3/10/26.
+//
 import SwiftUI
 
 struct ContentView: View {
